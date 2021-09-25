@@ -1,1 +1,1 @@
-# Glitch-Garden
+A tower defense game in which you have to defend against forest predators by building defenses in the garden. Defend on five lines, along which opponents go, buying and combining different garden dwellers.
